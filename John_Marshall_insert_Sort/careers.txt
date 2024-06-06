@@ -1,0 +1,32 @@
+Computer and Information Research Scientists
+102190
+Computer and Information Analysts
+80460
+Computer Systems Analysts
+79680
+Information Security Analysts
+86170
+Software Developers and Programmers
+87100
+Computer Programmers
+74280
+Software Developers Applications
+90060
+Software Developers Systems Software
+99000
+Web Developers
+62500
+Database and Systems Administrators and Network Architects
+76880
+Database Administrators
+77080
+Network and Computer Systems Administrators
+72560
+Computer Network Architects
+91000
+Computer Support Specialists
+48900
+Computer User Support Specialists
+46420
+Computer Network Support Specialists
+59090

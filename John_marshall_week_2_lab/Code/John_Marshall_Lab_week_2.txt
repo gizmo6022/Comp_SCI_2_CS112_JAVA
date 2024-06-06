@@ -1,0 +1,3 @@
+John Marshall week 2 Lab  Processing 1000 Random Integers
+The sum of all 1000 Nunber: 5472
+The average is: 5.0
